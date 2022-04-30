@@ -7,6 +7,6 @@ metadata:
 spec: 
   containers:
     - name: nodeapp
-      image: junaidshaikhcr7/testrepo:node-docker
+      image: junaidshaikhcr7/testrepo:tagVersion
       ports:
         - containerPort: 8080
